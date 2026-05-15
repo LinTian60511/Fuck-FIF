@@ -4,5 +4,9 @@ FIF 口语自动化
 
 需要：
 ffmpeg:安装到该项目的根目录
+
+
 chromedriver-win64:用于浏览器自动化
+
+
 VBCABLE:虚拟音频设备，将音频播放给浏览器完成朗读
