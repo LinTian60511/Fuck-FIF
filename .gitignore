@@ -1,0 +1,10 @@
+ffmpeg/
+chromedriver-win64/
+dist/
+build/
+*.exe
+audio/
+chrome_profile/
+__pycache__/
+*.spec
+vbcable/
